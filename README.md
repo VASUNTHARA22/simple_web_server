@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -105,8 +106,12 @@ Testing the webserver.
     </form>
 </body>
 </html>
+```
 
 # OUTPUT:
+
+![alt text](<simpl web server.png>)
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
