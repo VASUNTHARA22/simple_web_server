@@ -110,8 +110,6 @@ Testing the webserver.
 
 # OUTPUT:
 
-
-
 ![alt text](<simpl web server.png>)
 
 ![image](https://github.com/user-attachments/assets/553c9579-58d8-4189-b3df-b1f31c874fb9)
